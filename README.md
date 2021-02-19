@@ -24,14 +24,13 @@ conda env create
 
 wait for the environment to create.
 
-#### 5. Activate the environment (Mac/Linux)
+#### 5. Activate the environment (Mac/Linux/Windows)
 ```
 conda activate dlwp
 ```
-
-#### 5. Activate the environment (Windows)
+or
 ```
-conda activate dlwp
+source activate dlwp
 ```
 
 Check that your prompt changed to
@@ -70,6 +69,10 @@ To remove the environment:
 
 ```
 conda deactivate
+```
+or
+```
+source deactivate dlwp
 ```
 
 - deactivate the environment (Windows 10):
