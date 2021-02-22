@@ -1,12 +1,13 @@
-# deeplearning_with_python
-This repository is a part of the course deep learning with python @ YZE university
+# EI320A(3) 深度學習使用Python,R70802 (deeplearning_with_python)
+This repository is a part of the course EI320A(3) 深度學習使用Python @ YZE university
+
 ------
 
 ## Get started guide
 
 #### 1. Download this repository on your local computer and Unzip the folder
 
-#### 2. Download and Install Anaconda ()
+#### 2. Download and Install Anaconda 
 
 https://www.anaconda.com/distribution/
 
@@ -104,4 +105,11 @@ These instructions have been tested on:
 - Windows 10
 
 
+------
 
+## Course Outline
+
+| Week | Date | Content |
+| --- | --- | --- |
+| 1| 2/26 | Welcome to the course \n Download & Install Anaconda |
+| 2 | 3/5 |
