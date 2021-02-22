@@ -114,7 +114,7 @@ These instructions have been tested on:
 | 1| 2/26 | Welcome to the course <br /> Download & Install Anaconda |
 | 2 | 3/5 | Crash Course of Python, Numpy, Pandas, and Matplotlib |
 | 3 | 3/12 | Get to know about Data & ML:Classification Models <br /> (Logistic Regression, KNN, SVM, Naive Bayes, Decisition Tree, Random Forest) |
-| 4 | 3/19 | ML:Regression Models <br /> (Simple/Multiple/Polynomial Linear Regression  |
+| 4 | 3/19 | ML:Regression Models <br /> (Simple/Multiple/Polynomial Linear Regression)  |
 | 5 | 3/26 | ML:Clustering /Apriori Models |
 | 6 | 4/2 | **holiday** |
 | 7 | 4/9 | Introduction to Deep Learning (ANN) |
