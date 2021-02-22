@@ -1,5 +1,6 @@
 # EI320A(3) 深度學習使用Python,R70802 (deeplearning_with_python)
-This repository is a part of the course EI320A(3) 深度學習使用Python @ YZE university
+This repository is a part of the course EI320A(3) 深度學習使用Python @ 
+元智大學Yuan Ze University 
 
 ------
 
