@@ -111,5 +111,5 @@ These instructions have been tested on:
 
 | Week | Date | Content |
 | --- | --- | --- |
-| 1| 2/26 | Welcome to the course \n Download & Install Anaconda |
+| 1| 2/26 | Welcome to the course <br /> Download & Install Anaconda |
 | 2 | 3/5 |
