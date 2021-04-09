@@ -119,8 +119,8 @@ These instructions have been tested on:
 | 5 | 3/26 | ML:Clustering /Apriori Models |
 | 6 | 4/2 | **holiday** |
 | 7 | 4/9 | Introduction to Deep Learning (ANN) |
-| 8 | 4/16 | Advanced & Optimization of ANN - ANN Labs <br /> Introduction to Convolutional Neural Network (CNN) |
-| 9 | 4/23 | Convolutional Neural Network (CNN) |
+| 8 | 4/16 | Advanced & Optimization of (ANN) - ANN Labs <br /> Introduction to Convolutional Neural Network (CNN) |
+| 9 | 4/23 | Convolutional Neural Network (CNN) - CNN Labs |
 | 10 | 4/30 | Recurrent Neural Network (RNN) |
 | 11 | 5/7 | Recurrent Neural Network (RNN) |
 | 12 | 5/14 | **Project Proposal Presentation** |
