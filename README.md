@@ -121,9 +121,9 @@ These instructions have been tested on:
 | 7 | 4/9 | Introduction to Deep Learning (ANN) |
 | 8 | 4/16 | Advanced & Optimization of (ANN) - ANN Labs <br /> Introduction to Convolutional Neural Network (CNN) |
 | 9 | 4/23 | Convolutional Neural Network (CNN) - CNN Labs |
-| 10 | 4/30 | Recurrent Neural Network (RNN) |
-| 11 | 5/7 | Recurrent Neural Network (RNN) |
-| 12 | 5/14 | **Project Proposal Presentation** |
+| 10 | 4/30 | Convolutional Neural Network (CNN) - CNN Labs <br /> Introduction to Recurrent Neural Network (RNN) |
+| 11 | 5/7 | Recurrent Neural Network (RNN) - RNN Labs <br /> |
+| 12 | 5/14 | Recurrent Neural Network (RNN) - RNN Labs <br /> **Project Proposal Presentation** |
 | 13 | 5/21 | Time series with DNN, CNN, RNN |
 | 14 | 5/28 | Attention Neural Network |
 | 15 | 6/4 | Generative Adversarial Network (GAN) |
