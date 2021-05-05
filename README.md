@@ -123,7 +123,7 @@ These instructions have been tested on:
 | 9 | 4/23 | Convolutional Neural Network (CNN) - CNN Labs |
 | 10 | 4/30 | Introduction to Recurrent Neural Network (RNN) |
 | 11 | 5/7 | Recurrent Neural Network (RNN) - RNN Labs <br /> |
-| 12 | 5/14 | **Project Proposal Presentation** |
+| 12 | 5/14 | Wrap Up all ANN, CNN, RNN <br /> **Project Proposal Presentation** |
 | 13 | 5/21 | NLP, S2S & Attention Neural Network |
 | 14 | 5/28 | N/A |
 | 15 | 6/4 | Generative Adversarial Network (GAN) |
