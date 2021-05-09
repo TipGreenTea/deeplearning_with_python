@@ -125,7 +125,7 @@ These instructions have been tested on:
 | 11 | 5/7 | Recurrent Neural Network (RNN) - RNN Labs <br /> |
 | 12 | 5/14 | Wrap Up all ANN, CNN, RNN <br /> **Project Proposal Presentation** |
 | 13 | 5/21 | Generative Adversarial Network (GAN) |
-| 14 | 5/28 | N/A |
-| 15 | 6/4 | Deep Natural Language Processing, Seq2Seq & Attention Neural Network |
-| 16 | 6/11 | Reinforcement Learning (RL) |
+| 14 | 5/28 | Deep NLP, Seq2Seq & Attention Neural Network |
+| 15 | 6/4 | Reinforcement Learning (RL) |
+| 16 | 6/11 |  N/A |
 | 17 | 6/18 | **Final Project Presentation** |
