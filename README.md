@@ -127,5 +127,5 @@ These instructions have been tested on:
 | 13 | 5/21 | Generative Adversarial Network (GAN) |
 | 14 | 5/28 | Reinforcement Learning (RL) |
 | 15 | 6/4 | Deep NLP, Seq2Seq & Attention Neural Network |
-| 16 | 6/11 |  N/A |
+| 16 | 6/11 | Graph Neural Network (GNN) |
 | 17 | 6/18 | **Final Project Presentation** |
